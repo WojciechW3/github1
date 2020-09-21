@@ -15,6 +15,8 @@ public class Page2q3 {
 				System.out.print("*");
 				y = y + 1;
 			}
+			System.out.println(" ");
+			y = 0;
 			x = x + 1;
 			
 		}
